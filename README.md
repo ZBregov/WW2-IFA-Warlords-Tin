@@ -1,6 +1,6 @@
 
-# Warlords Redux 2.4
-Warlords Redux 2.4 is a community upgrade project for the Original Warlords Redux. 
+# Warlords Redux World War 2.4
+Warlords Redux World War 2.4 is a my upgrade project for the Redux Warlords Redux. 
 
 Original Warlords Redux by Bohemia Interactive and Jezuro can be found here:
 https://steamcommunity.com/sharedfiles/filedetails/?id=1834482266&searchtext=Warlords+redux
